@@ -1,9 +1,15 @@
-# README
-## xCode & Visual Studio Dark Themes - Retrowave Theme
+# Retrowave Theme
+### Xcode & Visual Studio Code <br/> Dark Themes - Retrowave Theme
+
+# xCode (3 Variations)
+<img src="../images/xcode.png">
+
+# Visual Studio Code
+<img src="../images/vscode.png">
+
+----
+Atmosphere Dark - is based on those colors.
 <img src="../images/retro.png">
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
+----
 **Enjoy!**
