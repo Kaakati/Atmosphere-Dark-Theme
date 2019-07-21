@@ -1,0 +1,21 @@
+{
+    "name": "atmosphere-dark",
+    "displayName": "Atmosphere Dark",
+    "description": "Calming 80s Retrowave Synthwave Era Theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atmosphere Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Atmosphere Dark-color-theme.json"
+            }
+        ]
+    }
+}
